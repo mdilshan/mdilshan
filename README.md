@@ -28,7 +28,7 @@
 </p>
 
 <hr>
-<h3 align='center'>My Status</h3>
+<h3 align='center'>About me</h3>
 <p align='center'>🔭 Freelancer at Upwork | 🌱 Student at SLIIT | 📫 Reach me on <a href="https://twitter.com/Dillshan21">Twitter</a</p>
 
 <p align='center'>
