@@ -3,28 +3,7 @@
   <p align='center' >A developer, designer and soon to be an Engineer</p>  
 </p> 
 <p align='center'>
-  <b>Technologies & Languages I use</b>
-</p>
-
-<p align='center'>
-  <img src="https://img.shields.io/badge/NodeJS-12.18-success"/>
-  <img src="https://img.shields.io/badge/JavaEE-8-important"/>
-  <img src="https://img.shields.io/badge/React%20JS-v16.13.1-blue"/>
-  <img src="https://img.shields.io/badge/Angular-10-critical"/>
-  <img src="https://img.shields.io/badge/HTML-5-orange"/>
-  <img src="https://img.shields.io/badge/CSS-3-9cf"/>
-   <img src="https://img.shields.io/badge/Docker-informational"/>
-  <img src="https://img.shields.io/badge/Nginx-success"/>
-  <img src="https://img.shields.io/badge/PostgreSql-12.3-blue"/>
-  <img src="https://img.shields.io/badge/MongoDB-4.2.8-informational"/>
-</p>
-
-<p align='center'>
-  <img src="https://img.shields.io/badge/JavaScript-yellow"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue"/>
-  <img src="https://img.shields.io/badge/Java-orange"/>
-  <img src="https://img.shields.io/badge/C++-lightgrey"/>
-  <img src="https://img.shields.io/badge/Dart-blue"/>
+  <b>I like to work with JavaScript / Go & Dart</b>
 </p>
 
 <hr>
