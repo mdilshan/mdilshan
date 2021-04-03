@@ -1,14 +1,14 @@
 <p> 
-  <h2 align='center' > Hi there 👋, It's me, Dilshan</h2> 
-  <p align='center' >A developer, designer and soon to be an Engineer</p>  
+  <h2> Hi there 👋, It's me, Dilshan</h2> 
+  <p>A developer, designer and soon to be an Engineer</p>  
 </p> 
-<p align='center'>
+<p>
   <b>I like to work with JavaScript / Go & Dart</b>
 </p>
 
 <hr>
-<h3 align='center'>About me</h3>
-<p align='center'>🔭 Freelancer at Upwork | 🌱 Student at SLIIT | 📫 Reach me on <a href="https://twitter.com/Dillshan21">Twitter</a</p>
+<h3>About me</h3>
+<p>🔭 Freelancer at Upwork | 🌱 Student at SLIIT | 📫 Reach me on <a href="https://twitter.com/Dillshan21">Twitter</a</p>
 <!--
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=mdilshan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats">
